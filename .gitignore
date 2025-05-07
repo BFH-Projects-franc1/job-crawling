@@ -1,0 +1,5 @@
+data/
+config/config.json
+.env
+documentation/ScreenCast-T2-Job-Crawling-franc1.mp4
+__pycache__/
